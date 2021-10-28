@@ -27,6 +27,10 @@ Referências:
 - <a href="https://www.alura.com.br/artigos/operadores-matematicos-em-javascript">Alura</a>
 - <a href="https://www.javascriptprogressivo.net/2018/07/Operador-Comparacao-JS-Igual-Diferente-Menor-Maior.html">JsProgressivo</a>
 
+- <a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open">JsProgressivo</a>
+
+
+
 
 
 
